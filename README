@@ -1,0 +1,3 @@
+Refreshing my knowlege of working with dependencies, Docker, PHP, and git. 
+
+This tool extracts both metadata and text from a PDF file and displays it using one dependency: smalot/pdfparser.
