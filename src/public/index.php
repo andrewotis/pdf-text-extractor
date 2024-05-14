@@ -1,6 +1,6 @@
 <?php
 
-# setup autoloading
+// setup autoloading
 require __DIR__ . '/../vendor/autoload.php';
 
 use Smalot\PdfParser\Parser;
